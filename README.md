@@ -3,4 +3,4 @@ Recreation of the famous matchstick game
 
 Projet epitech 1ere année
 
-En gros c'est un jeu ou tu pousses des caisses
+Celui qui prend la derniere alumette a perdu
